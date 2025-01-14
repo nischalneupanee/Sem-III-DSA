@@ -78,6 +78,7 @@ int main()
             break;
         case 4:
             printf("%d\n",front);
+            break;
         case 5:
             exit(0);
             break;
